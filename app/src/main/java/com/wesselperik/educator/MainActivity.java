@@ -127,8 +127,8 @@ public class MainActivity extends AppCompatActivity {
         Document doc = Jsoup.parse(html);
 
         if (!studiesLoaded) {
-            Element study = doc.getElementsByClass("study").first();
-            Log.d("STUDY", study.text());
+            //Element study = doc.getElementsByClass("study").first();
+            //Log.d("STUDY", study.text());
 
             Elements goals = doc.getElementsByClass("goal-unit-card");
             for (Element goal : goals) {

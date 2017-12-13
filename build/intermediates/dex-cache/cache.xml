@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wesselperik/Documents/Android/BisonEducator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wesselperik/Documents/Android/BisonEducator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ff25897074768727af9c806ec5fb6f1e08ae226/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wesselperik/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/wesselperik/Documents/Android/BisonEducator/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.10.2_d6319e8ac888291ab7efc8dee454a934bc3d25ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wesselperik/Documents/Android/BisonEducator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9653fa35debc495b96ff472805d5a189807e8d46">
+        <dex dex="/Users/wesselperik/Documents/Android/BisonEducator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32f5ab4db0dfbada50a9f25026cacc4537aad2fd/classes.dex" />
+    </item>
+
+</items>
