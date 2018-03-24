@@ -12,7 +12,7 @@ An app to view your grades from the Saxion Bison-system.
 - Change the username and password in the `res/values/strings.xml` file.
 
 ## License
-Copyright (c) 2017 Wessel Perik
+Copyright (c) 2017 - 2018 Wessel Perik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
