@@ -1,5 +1,7 @@
 # BisonEducator
 
+[![Build Status](http://jenkins.perik.me/buildStatus/icon?job=BisonEducator)](http://jenkins.perik.me/job/BisonEducator/)
+
 An app to view your grades from the Saxion Bison-system.
 
 ```diff
