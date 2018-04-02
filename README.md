@@ -1,6 +1,8 @@
 # BisonEducator
 
-**Build status:** [![Build Status](http://jenkins.perik.me/job/BisonEducator/badge/icon)](http://jenkins.perik.me/job/BisonEducator/)
+[![Build Status](http://jenkins.perik.me/job/BisonEducator/badge/icon)](http://jenkins.perik.me/job/BisonEducator/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wesselperik/BisonEducator/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/wesselperik/BisonEducator.svg)](https://github.com/wesselperik/BisonEducator)
 
 An app to view your grades from the Saxion Bison-system.
 
